@@ -15,16 +15,16 @@ Create an application that simulates dice rolling.
 * The application asks the user if he/she wants to roll the dice again.
 
 ## Build Specifications/Grading Requirements
-1. Use a static method to generate the random numbers.
+* Use a static method to generate the random numbers.
   * Proper method header: 2 points
   * Program generates random numbers validly and with an even distribution (all numbers represented equally) within the user-specified range: 1 point
   * Method returns meaningful value of proper type: 1 point
-2. Use a static method to implement output for different dice combinations
+* Use a static method to implement output for different dice combinations
   * Proper method header: 2 points
   * Method recognizes all specified cases correctly: 1 point
   * Method displays properly to Console: 1 point
-3. Application takes all user input correctly: 1 point
-4. Application loops properly: 1 point
+* Application takes all user input correctly: 1 point
+* Application loops properly: 1 point
 
 ## Extended Exercises
 * Use the DiceRollerApp class to display special messages for craps, snake eyes, and box cars.
